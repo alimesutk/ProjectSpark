@@ -1,2 +1,2 @@
 # ProjectSpark
-my spark attempts
+PySpark ile Spark özelliklerinin denendiği bir projedir.
